@@ -1,0 +1,3 @@
+superuser = admin
+password = django2022
+email = avilin1@hotmail.com
